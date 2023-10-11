@@ -31,19 +31,19 @@ namespace Questao_1
                 switch (quantidade_numeros)
                 {
                     case 5:
-                        Console.WriteLine("Escreva 5 números inteiros pares: ");
+                        Console.WriteLine("Escreva 5 números inteiros: ");
                         break;
                     case 4:
-                        Console.WriteLine("Escreva mais 4 número inteiro par: ");
+                        Console.WriteLine("Escreva mais 4 números inteiros ");
                         break;
                     case 3:
-                        Console.WriteLine("Escreva mais 3 número inteiro par: ");
+                        Console.WriteLine("Escreva mais 3 números inteiros: ");
                         break;
                     case 2:
-                        Console.WriteLine("Escreva mais 2 número inteiro par: ");
+                        Console.WriteLine("Escreva mais 2 números inteiros: ");
                         break;
                     case 1:
-                        Console.WriteLine("Escreva mais 1 número inteiro par: ");
+                        Console.WriteLine("Escreva mais 1 número inteiro: ");
                         break;
                     default:
                         Console.WriteLine("Quantidade inválida.");

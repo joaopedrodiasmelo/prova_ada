@@ -6,9 +6,16 @@ namespace questao_4
     {
         static void Main(string[] args)
         {
-            for (int i = -5; i <= 7; i += 3)
+            try
             {
-                Console.WriteLine(i);
+                for (int i = -5; i <= 7; i += 3)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Erro nas funções estáticas." + ex.Message);
             }
         }
 

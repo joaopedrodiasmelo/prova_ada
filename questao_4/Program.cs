@@ -6,9 +6,16 @@ namespace questao_4
     {
         static void Main(string[] args)
         {
-            Int32 numero;
-            numero = Convert.ToInt16(!(21 > 21));
-            Console.WriteLine(numero);
+            try
+            {
+                Int32 numero;
+                numero = Convert.ToInt16(!(21 > 21));
+                Console.WriteLine(numero);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Erro nas funções estáticas." + ex.Message);
+            }
         }
 
     }

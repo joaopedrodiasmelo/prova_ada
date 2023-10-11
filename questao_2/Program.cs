@@ -29,9 +29,9 @@ namespace Questao_2
                 bool auxiliar_validacao = true; //variável auxiliar na verificação do input
 
                 if (quantidade_numeros == 2)
-                    Console.WriteLine("Escreva dois números inteiros pares: ");
+                    Console.WriteLine("Escreva dois números inteiros: ");
                 else
-                    Console.WriteLine("Escreva mais um  número inteiro par: ");
+                    Console.WriteLine("Escreva mais um  número inteiro: ");
 
                 try
                 {
