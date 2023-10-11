@@ -1,0 +1,14 @@
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\bin\Debug\net7.0\questao_2.exe
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\bin\Debug\net7.0\questao_2.deps.json
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\bin\Debug\net7.0\questao_2.runtimeconfig.json
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\bin\Debug\net7.0\questao_2.dll
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\bin\Debug\net7.0\questao_2.pdb
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\obj\Debug\net7.0\questao_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\obj\Debug\net7.0\questao_2.AssemblyInfoInputs.cache
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\obj\Debug\net7.0\questao_2.AssemblyInfo.cs
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\obj\Debug\net7.0\questao_2.csproj.CoreCompileInputs.cache
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\obj\Debug\net7.0\questao_2.dll
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\obj\Debug\net7.0\refint\questao_2.dll
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\obj\Debug\net7.0\questao_2.pdb
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\obj\Debug\net7.0\questao_2.genruntimeconfig.cache
+C:\Users\diasj\Documents\Faculdade\Prova_ada\questao_2\obj\Debug\net7.0\ref\questao_2.dll
